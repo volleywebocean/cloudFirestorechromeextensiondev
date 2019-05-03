@@ -19,6 +19,11 @@
             <div class='heart-icon'></div>Save To PlanAway
           </Button>`
         );
+        $(".gws-flights__flex-filler.gws-flights-results__itinerary-details-heading-text").after(
+          `<Button class='save-plan-way'>
+            <div class='heart-icon'></div>Save To PlanAway
+          </Button>`
+        );
 
         $(".save-plan-way").click(function(event) {
           // event.stopPropagation();
