@@ -23,7 +23,17 @@
         $(".save-plan-way").click(function(event) {
           // event.stopPropagation();
           // alert("hello");
-          chrome.runtime.sendMessage({name:"alan", city: "New York"});
+          chrome.runtime.sendMessage({
+            accessurl: "https://sss",
+            airPort: "eifdef",
+            airline: "bie",
+            currentprice: "$234",
+            date: "1232",
+            flightleg: "efev",
+            flightnumber: "545",
+            flighttime: "4545",
+            stopover: "eiii"
+          });
         });    
       }
     }, 1000);
