@@ -23,7 +23,7 @@
         $(".save-plan-way").click(function(event) {
           // event.stopPropagation();
           // alert("hello");
-          chrome.runtime.sendMessage({name:"qweweqeqe", city: "grfgegegeg"});
+          chrome.runtime.sendMessage({name:"alan", city: "New York"});
         });    
       }
     }, 1000);
