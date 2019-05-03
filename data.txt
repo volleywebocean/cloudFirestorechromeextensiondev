@@ -1,0 +1,276 @@
+//////////////////////////////////////////
+<li jstcache="9031" data-fp="SEABWI0NK238~BWIATL1NK557" jsinstance="3;SEABWI0NK238~BWIATL1NK557" class="gws-flights-results__result-item gws-flights__flex-box gws-flights-results__result-item-more gws-flights-results__expanded" jsan="7.gws-flights-results__result-item,t-mKenz9EpVzA,7.gws-flights__flex-box,7.gws-flights-results__result-item-more,7.gws-flights-results__expanded,0.data-fp,21.jssc" style="">
+    <div jstcache="9033" jscontroller="YJLw5" jsaction="KAw74b:ornU0b" class="gws-flights-results__itinerary-card gws-flights-results__result-item-content gws-flights__flex-filler gws-flights-widgets-expandablecard__card gws-flights-widgets-expandablecard__elevation-1 gws-flights-widgets-expandablecard__expanded" jsvs="&quot;YJLw5&quot;;&quot;KAw74b:ornU0b&quot;;" jsan="7.gws-flights-results__itinerary-card,7.gws-flights-results__result-item-content,7.gws-flights__flex-filler,t-YSgvodghmqM,0.jscontroller,7.gws-flights-widgets-expandablecard__card,7.gws-flights-widgets-expandablecard__expanded,7.gws-flights-widgets-expandablecard__elevation-1,22.jsaction,21.jssc">
+        <div jstcache="6292" class="gws-flights-widgets-expandablecard__header gws-flights-results__itinerary-card-header" jsan="7.gws-flights-widgets-expandablecard__header,t-GQjl3bQE6xM,7.gws-flights-results__itinerary-card-header">
+            <div class="gws-flights-results__result-item-content-border" style=""></div>
+            <div jstcache="9054" class="gws-flights-results__itinerary-card-summary gws-flights-results__result-item-summary gws-flights__flex-box" jsan="7.gws-flights-results__itinerary-card-summary,7.gws-flights-results__result-item-summary,7.gws-flights__flex-box">
+                <span id="flt-i-SEABWI0NK238~BWIATL1NK557" jstcache="9055" style="display:none">
+                    <jsl jstcache="9056">1 stop flight by Spirit.Departure time: 22:04.Arrival time: 10:24 (on Sat, 18 May).From €455 round trip total.This price does not include overhead bin access.Trip duration: 9 h 20 m.2 h 15 m stopover in Baltimore/Washington International Thurgood Marshall Airport.Departs from Seattle-Tacoma International Airport.Arrives at Hartsfield–Jackson Atlanta International Airport.</jsl>Select this itinerary.
+                </span>
+                <div aria-labelledby="flt-i-SEABWI0NK238~BWIATL1NK557" role="button" tabindex="0" jstcache="9057" jsaction="mousedown:jsl._;jsl._" class="gws-flights-results__select-header gws-flights__flex-filler">
+                    <div jstcache="9058" class="gws-flights-results__collapsed-itinerary gws-flights-results__itinerary" style=""> 
+                        <div class="gws-flights-results__itinerary-logo gws-flights__flex-box gws-flights__align-center"> 
+                            <img src="//www.gstatic.com/flights/airline_logos/70px/NK.png" alt="" class="gws-flights-results__airline-logo" height="35" width="35"> 
+                        </div> 
+                        <div class="gws-flights-results__itinerary-times gws-flights__ellipsize" data-animation-slideout="" style=""> 
+                            <div class="gws-flights-results__times-row">  
+                                <div class="gws-flights-results__times flt-subhead1">
+                                    <span> 
+                                        <span jscontroller="lLN5lc" jsdata="Dij6Dd;;4059" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                            <span>22:04</span> 
+                                        </span> 
+                                    </span> – 
+                                    <span> 
+                                        <span jscontroller="lLN5lc" jsdata="Dij6Dd;;4060" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                            <span>10:24</span>
+                                            <span class="gws-flights__offset-days">+1</span> 
+                                        </span> 
+                                    </span> 
+                                </div>  
+                            </div> 
+                            <div class="gws-flights-results__carriers gws-flights__ellipsize gws-flights__flex-box gws-flights__align-center flt-caption">     
+                                <span class="gws-flights__ellipsize">
+                                    <span>
+                                        <span>Spirit</span>
+                                    </span>
+                                </span> 
+                                <div class="gws-flights-results__basic-economy-badge" style="display: none;">Basic Economy</div> 
+                                <span class="gws-flights-results__airline-extra-info gws-flights__ellipsize">  
+                                    <span class="gws-flights-results__disclosure"></span> 
+                                </span> 
+                            </div> 
+                        </div> 
+                        <div class="gws-flights-results__itinerary-duration gws-flights__ellipsize" data-animation-fadeout="" style=""> 
+                            <div class="gws-flights-results__duration flt-subhead1Normal">9 h 20 m</div> <div> 
+                                <div class="gws-flights-results__airports flt-caption"> 
+                                    <span jscontroller="U6dg7d" data-airportcode="SEA" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb">SEA</span>–
+                                    <span jscontroller="U6dg7d" data-airportcode="ATL" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb">ATL</span> 
+                                </div> 
+                            </div>   
+                        </div> 
+                        <div class="gws-flights-results__itinerary-stops gws-flights__ellipsize" data-animation-fadeout="" style=""> 
+                            <div> 
+                                <div class="gws-flights-results__stops flt-subhead1Normal"> 
+                                    <div>
+                                        <span>1 stop</span>
+                                    </div>  
+                                </div> 
+                            </div> 
+                            <div class="gws-flights-results__layover-time flt-caption"> 
+                                <span>2 h 15 m</span> 
+                                <span>
+                                    <span jscontroller="U6dg7d" data-airportcode="BWI">
+                                        <span jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb">BWI</span>
+                                    </span>
+                                </span> 
+                            </div>  
+                        </div>
+                        <button class="save-plan-way">
+                            <div class="heart-icon"></div>Save To PlanAway
+                        </button>  
+                        <div jscontroller="OM4EZb" class="gws-flights-results__itinerary-price"> 
+                            <div class="flt-subhead1 gws-flights-results__price">    
+                                <span class="gws-flights-results__carry-on-definitely-not-included gws-flights-results__marker" role="button" tabindex="-1" jsaction="LoTHjf;mouseenter:LoTHjf;mouseleave:QsRKXb"></span>  €455   
+                            </div> 
+                            <div class="gws-flights-results__price-annotation flt-caption">round trip
+                            </div>   
+                        </div> 
+                    </div>
+                    <div jstcache="9059" class="gws-flights-results__expanded-itinerary gws-flights-results__itinerary" style=""> 
+                        <div class="gws-flights-results__itinerary-logo gws-flights__flex-box gws-flights__align-center" style=""> 
+                            <img src="//www.gstatic.com/flights/airline_logos/70px/NK.png" alt="" class="gws-flights-results__airline-logo" height="35" width="35">  
+                        </div> 
+                        <div class="gws-flights-results__itinerary-details-heading gws-flights__flex-box gws-flights__flex-filler gws-flights__align-center flt-subhead1"> 
+                            <div class="gws-flights__flex-filler gws-flights-results__itinerary-details-heading-text" style=""> 
+                                <span>   
+                                    <span>Departure</span>  
+                                </span> 
+                                <span class="gws-flights__separator"></span> 
+                                <span>Fri, 17 May</span> 
+                            </div> 
+                            <hairline-button class="gws-flights-results__select-button CpMx2b LZHEY flt-subhead2 RQn3j" role="button" tabindex="0" style="">
+                                <div class="j8apPd"></div> Select flight  
+                            </hairline-button> 
+                        </div>  
+                        <div jscontroller="OM4EZb" class="gws-flights-results__itinerary-price" style=""> 
+                            <div class="flt-subhead1 gws-flights-results__price">    
+                                <span class="gws-flights-results__carry-on-definitely-not-included gws-flights-results__marker" role="button" tabindex="-1" jsaction="LoTHjf;mouseenter:LoTHjf;mouseleave:QsRKXb"></span>  €455   
+                            </div> 
+                            <div class="gws-flights-results__price-annotation flt-caption">round trip</div>   
+                        </div> 
+                    </div>
+                    <div jstcache="9060" style="display:none"></div>
+                </div>
+                <div aria-label="Hide details" role="button" tabindex="0" jstcache="9061" jsaction="jsl._" class="gws-flights-results__expand" style="">
+                    <span jstcache="9062" class="z1asCe QFl0Ff gws-flights-results__less" jsan="7.gws-flights-results__less">
+                        <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+                        </svg>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="gws-flights-widgets-expandablecard__body" style="">
+            <div class="gws-flights-widgets-expandablecard__back-top" style=""></div>
+            <div jstcache="6293" class="gws-flights-widgets-expandablecard__content gws-flights-results__expanded-details-content" jsan="7.gws-flights-widgets-expandablecard__content,t-eciF-Mwu_Hk,7.gws-flights-results__expanded-details-content" style="">
+                <div jstcache="9035" jsinstance="0">
+                    <div class="gws-flights-results__leg">
+                        <div class="gws-flights-results__leg-details gws-flights__flex-filler">
+                            <div class="gws-flights-results__leg-itinerary">
+                                <div class="gws-flights-results__dotted-flight-icon"></div>
+                                    <div class="gws-flights-results__leg-departure gws-flights__flex-box flt-subhead1Normal">
+                                        <div>
+                                            <span aria-label="Departure time: 22:04." jscontroller="lLN5lc" jsdata="Dij6Dd;;4061" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                                <span>22:04</span> 
+                                            </span>
+                                        </div>
+                                        <div class="gws-flights__separator" aria-hidden="true"></div>
+                                        <div aria-label="Departs from Seattle-Tacoma International Airport.">
+                                            <span>Seattle-Tacoma International Airport</span>&nbsp;<span class="gws-flights-results__iata-code">SEA
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="gws-flights-results__leg-duration gws-flights__flex-box flt-body2">
+                                        <div>Travel time:&nbsp;
+                                            <span>5 h 6 m</span>
+                                        </div>
+                                        <div class="gws-flights__separator" aria-hidden="true"></div>
+                                        <div class="gws-flights-results__warning">Overnight</div>
+                                    </div>
+                                    <div class="gws-flights-results__leg-arrival gws-flights__flex-box flt-subhead1Normal">
+                                        <div>
+                                            <span aria-label="Arrival time: 06:10 (on Sat, 18 May)." jscontroller="lLN5lc" jsdata="Dij6Dd;;4062" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                                <span>06:10</span>
+                                                <span class="gws-flights__offset-days">+1</span> 
+                                            </span>
+                                        </div>
+                                        <div class="gws-flights__separator" aria-hidden="true"></div>
+                                        <div aria-label="Arrives at Baltimore/Washington International Thurgood Marshall Airport.">
+                                            <span>Baltimore/Washington International Thurgood Marshall Airport
+                                            </span>&nbsp;
+                                            <span class="gws-flights-results__iata-code">BWI</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gws-flights-results__leg-flight gws-flights__flex-box gws-flights__align-center flt-caption">
+                                    <div>Spirit</div>
+                                    <span class="gws-flights__separator" aria-hidden="true"></span>
+                                    <div class="gws-flights-results__seating-class-be-non-be">
+                                        <div class="gws-flights-results__non-basic-economy gws-flights-results__seating-class">
+                                            <span>Economy</span>
+                                        </div>
+                                        <div class="gws-flights-results__basic-economy" style="display: none;">Basic Economy</div>
+                                    </div>
+                                    <div class="gws-flights-results__other-leg-info gws-flights__flex-box gws-flights__align-center"><div class="gws-flights__separator" aria-hidden="true"></div>
+                                    <div class="gws-flights-results__aircraft-type">
+                                        <span>Airbus A320</span>
+                                        <span class="gws-flights__separator" aria-hidden="true"></span>
+                                    </div>
+                                    <span>
+                                        <span>NK</span>&nbsp;
+                                        <span>238</span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="gws-flights-results__leg-amenities flt-caption gws-flights-results__amenities" jscontroller="aK5RVe"> 
+                            <ul> 
+                                <li class="gws-flights__ellipsize gws-flights-results__limited-carry-on-amenity" style="display: none;"> 
+                                    <span class="gws-flights-results__limited-carry-on" role="button" tabindex="-1" jsaction="pCNdcd"></span> 
+                                    <span>Carry-on bags restricted </span> 
+                                </li>     
+                                <li class="gws-flights-results__seat-below-average">Below average legroom (71 cm)</li>              
+                            </ul> 
+                        </div>
+                    </div>
+                </div>
+                <div jstcache="9035" jsinstance="*1">
+                    <div class="gws-flights-results__stopover flt-body2">
+                        <div class="gws-flights__flex-box">
+                            <div>2 h 15 m layover</div>
+                            <div class="gws-flights__separator" aria-hidden="true"></div>
+                            <div>
+                                <div>
+                                    <span>Baltimore</span>
+                                    <span>&nbsp;
+                                        <span class="gws-flights-results__iata-code">BWI</span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gws-flights-results__leg">
+                        <div class="gws-flights-results__leg-details gws-flights__flex-filler">
+                            <div class="gws-flights-results__leg-itinerary">
+                                <div class="gws-flights-results__dotted-flight-icon"></div>
+                                <div class="gws-flights-results__leg-departure gws-flights__flex-box flt-subhead1Normal">
+                                    <div>
+                                        <span aria-label="Departure time: 08:25 (on Sat, 18 May)." jscontroller="lLN5lc" jsdata="Dij6Dd;;4063" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                            <span>08:25</span>
+                                            <span class="gws-flights__offset-days">+1</span> 
+                                        </span>
+                                    </div>
+                                    <div class="gws-flights__separator" aria-hidden="true"></div>
+                                    <div aria-label="Departs from Baltimore/Washington International Thurgood Marshall Airport.">
+                                        <span>Baltimore/Washington International Thurgood Marshall Airport</span>&nbsp;
+                                        <span class="gws-flights-results__iata-code">BWI</span>
+                                    </div>
+                                </div>
+                                <div class="gws-flights-results__leg-duration gws-flights__flex-box flt-body2">
+                                    <div>Travel time:&nbsp;
+                                        <span>1 h 59 m</span>
+                                    </div>
+                                </div>
+                                <div class="gws-flights-results__leg-arrival gws-flights__flex-box flt-subhead1Normal">
+                                    <div>
+                                        <span aria-label="Arrival time: 10:24 (on Sat, 18 May)." jscontroller="lLN5lc" jsdata="Dij6Dd;;4064" jsaction="mouseenter:pCNdcd;mouseleave:QsRKXb"> 
+                                            <span>10:24</span>
+                                            <span class="gws-flights__offset-days">+1</span> 
+                                        </span>
+                                    </div>
+                                    <div class="gws-flights__separator" aria-hidden="true"></div>
+                                    <div aria-label="Arrives at Hartsfield–Jackson Atlanta International Airport.">
+                                        <span>Hartsfield–Jackson Atlanta International Airport</span>&nbsp;
+                                        <span class="gws-flights-results__iata-code">ATL</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="gws-flights-results__leg-flight gws-flights__flex-box gws-flights__align-center flt-caption">
+                                <div>Spirit</div>
+                                <span class="gws-flights__separator" aria-hidden="true"></span>
+                                <div class="gws-flights-results__seating-class-be-non-be">
+                                    <div class="gws-flights-results__non-basic-economy gws-flights-results__seating-class">
+                                        <span>Economy</span>
+                                    </div>
+                                    <div class="gws-flights-results__basic-economy" style="display: none;">Basic Economy</div>
+                                </div>
+                                <div class="gws-flights-results__other-leg-info gws-flights__flex-box gws-flights__align-center">
+                                    <div class="gws-flights__separator" aria-hidden="true"></div>
+                                    <div class="gws-flights-results__aircraft-type">
+                                        <span>Airbus A320</span>
+                                        <span class="gws-flights__separator" aria-hidden="true"></span>
+                                    </div>
+                                    <span>
+                                        <span>NK</span>&nbsp;
+                                        <span>557</span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="gws-flights-results__leg-amenities flt-caption gws-flights-results__amenities" jscontroller="aK5RVe"> 
+                            <ul> 
+                                <li class="gws-flights__ellipsize gws-flights-results__limited-carry-on-amenity" style="display: none;"> 
+                                    <span class="gws-flights-results__limited-carry-on" role="button" tabindex="-1" jsaction="pCNdcd"></span> 
+                                    <span>Carry-on bags restricted </span> 
+                                </li>     
+                                <li class="gws-flights-results__seat-below-average">Below average legroom (71 cm)</li>              
+                            </ul> 
+                        </div>
+                    </div>
+                </div>
+                <div jstcache="9036"></div>
+            </div>
+            <div class="gws-flights-widgets-expandablecard__back-bottom" style=""></div>
+        </div>
+    </div>
+</li>

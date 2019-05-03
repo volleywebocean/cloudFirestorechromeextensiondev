@@ -1,0 +1,21 @@
+{
+  "name": "FlightsPlanAway",
+  "version": "1.0",
+  "description": "SaveFlightPlanAway",
+  "manifest_version": 2,
+  "content_scripts": [ {
+    "js": [ "jquery.js", "script.js" ],
+    "css": ["style.css"],
+    "matches": [ "https://www.google.com/flights*"]
+  }],
+  "icons":{
+    "16": "icon.png"
+  },
+  "background":{
+    "page":"background.html"
+  },
+  "permissions":[
+    "identity"
+  ],
+  "content_security_policy":"script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'"
+}
